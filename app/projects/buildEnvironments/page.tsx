@@ -25,7 +25,7 @@ export default function BuildEnvironments() {
                 <div className="bg-gradient-to-r from-gray-700 via-gray-900 to-black p-6 rounded-lg shadow-lg">
                     <h2 className="text-3xl font-bold mb-4">Project Overview</h2>
                     <p className="text-lg">
-                        The "Build Environments" project explores various strategies to enhance the security of software build environments as part of securing software supply chains.
+                        The Build Environments project explores various strategies to enhance the security of software build environments as part of securing software supply chains.
                     </p>
                     <ul className="list-disc my-4 pl-8">
                         <li>Analysis of isolated, hermetic, reproducible, and bootstrappable build environments.</li>
